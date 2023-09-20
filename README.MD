@@ -1,4 +1,4 @@
-# This is my first published website
+# Repo for webpage via github pages.
 
 ## Nothing fancy
 
