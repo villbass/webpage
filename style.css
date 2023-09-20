@@ -370,3 +370,18 @@ var {
         grid-template-rows: repeat(auto-fit, auto);
     }
 }
+
+footer {
+    padding: 20px 0;
+    background-color: #f7f7f1;
+    text-align: center;
+    border-top: 2px solid #ddd;
+    margin-top: 20px;
+    grid-column: 1 / -1;
+}
+
+footer p {
+    font-size: 16px;
+    color: #666;
+    margin: 10px 0;
+}
